@@ -1,2 +1,2 @@
 # AlapacaServer
-NER tagging server based onAlpacaTag
+NER tagging server based on AlpacaTag
